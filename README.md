@@ -28,7 +28,7 @@ I'm a passionate **Technical Support and Software Engineer** with experience in 
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[ALX_AFRICA FRONT END PROJECT]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
 
 ### [Project 2 Title](project_2_link)
 
