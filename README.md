@@ -28,7 +28,19 @@ I'm a passionate **Technical Support and Software Engineer** with experience in 
 
 ![Project 1 Screenshot](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/img/Header_banner.jpg)
 
-**[ALX_AFRICA FRONT END PROJECT]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
+**[ALX_AFRICA FRONT END PROJECT]** is a **[Welcome to SmileSchool! This project is a vibrant, interactive landing page designed to teach the art of smiling, grinning, and laughing—all with a modern, responsive layout and playful visuals.
+
+Inspiration:
+
+This project was inspired by ALX Africa as part of their curriculum to help learners build and strengthen front-end development skills.
+
+🚀 Features
+Learn from the Pros: Meet award-winning smile experts and discover their secrets.
+Popular Tutorials: Explore video tutorials with ratings and durations.
+Free Membership: Unlock exclusive content and perks—no cost, just smiles!
+FAQ Section: Get answers to all your burning questions.
+Responsive Design: Looks great on any device.
+FontAwesome Icons: Social media and rating stars for a lively experience.]** built with **[HTML, CSS, JavaScript]**. This project demonstrates my ability to **[create a responsive webpages that satisfies clients needs]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
 
 ### [Project 2 Title](project_2_link)
 
