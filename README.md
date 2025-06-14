@@ -42,13 +42,22 @@ FAQ Section: Get answers to all your burning questions.
 Responsive Design: Looks great on any device.
 FontAwesome Icons: Social media and rating stars for a lively experience.]** built with **[HTML, CSS, JavaScript]**. This project demonstrates my ability to **[create a responsive webpages that satisfies clients needs]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
 
-### [Project 2 Title](project_2_link)
+### [Project 2 Title](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js)
 Welcome to the Dynamic To-Do List!
-This interactive web application lets you easily manage your daily tasks. Add new tasks, view your list, and remove completed items—all in real time, with no page reloads.
 
-![Project 2 Screenshot](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js/blob/main/README.md)
+![Project 2 Screenshot](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js/blob/main/To_Do_List_Demo.gif)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[dynamic-to-do-list-js]** is a **[This interactive web application lets you easily manage your daily tasks. Add new tasks, view your list, and remove completed items—all in real time, with no page reloads.
+
+]** built with **[---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---]**. This project showcases my skills in **[JavaScript]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js).
 
 ## Get in Touch 📬
 
