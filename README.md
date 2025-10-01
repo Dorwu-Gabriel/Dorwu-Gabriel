@@ -57,7 +57,7 @@ Welcome to the Dynamic To-Do List!
 - CSS3
 - JavaScript (Vanilla)
 
----]**. This project showcases my skills in **[JavaScript]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js).
+This project showcases my skills in **[JavaScript]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js).
 
 ## Get in Touch 📬
 
