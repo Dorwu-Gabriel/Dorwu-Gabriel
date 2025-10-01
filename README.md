@@ -2,7 +2,7 @@
 ![Codewars](https://www.codewars.com/users/mathesond900/badges/large)
 # Hi there, I'm Dorwu Gabriel! 👋
 
-## About Me 🚀
+## About Me 
 
 I'm a passionate **Technical Support and Software Engineer** with experience in **Web Development, software development, technical support, Networking, cloud computing, UI/UX, and graphics Design**. I love problem-solving, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
@@ -34,7 +34,7 @@ Inspiration:
 
 This project was inspired by ALX Africa as part of their curriculum to help learners build and strengthen front-end development skills.
 
-🚀 Features
+Features
 Learn from the Pros: Meet award-winning smile experts and discover their secrets.
 Popular Tutorials: Explore video tutorials with ratings and durations.
 Free Membership: Unlock exclusive content and perks—no cost, just smiles!
