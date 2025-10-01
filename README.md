@@ -42,6 +42,8 @@ FAQ Section: Get answers to all your burning questions.
 Responsive Design: Looks great on any device.
 FontAwesome Icons: Social media and rating stars for a lively experience.]** built with **[HTML, CSS, JavaScript]**. This project demonstrates my ability to **[create a responsive webpages that satisfies clients needs]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
 
+### [Project 4 Title](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js)
+Welcome to the Dynamic To-Do List!
 <p align="left">
   <img src="./src/assets/logo.png" alt="Logo" width="50"/>
   <strong style="font-size:50px;"> CURRENCY CONVERTER APP</strong>
