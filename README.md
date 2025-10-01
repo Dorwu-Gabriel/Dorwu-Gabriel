@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Technical Support and Software Engineer** with experience in **Web Development, software development, technical support, ,Networking, cloud computing, UI/UX and graphics Design**. I love problem solving, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Technical Support and Software Engineer** with experience in **Web Development, software development, technical support, Networking, cloud computing, UI/UX, and graphics Design**. I love problem-solving, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Python and React**
-- 🔭 Working on: **Vision / Notice board that will help users keep up with thier daily agenders**
+- 🔭 Working on: **Vision / Notice board that will help users keep up with their daily agendas**
 - 🌍 Languages: **English**
 - 📫 How to reach me: **mathesond.gabriel90@gmail.com**
-- ⚡ Fun fact: *I love playing the piano and watching documentations*
+- ⚡ Fun fact: *I love playing the piano and watching documentaries*
 
 ## My Skills 🧠
 
@@ -48,8 +48,6 @@ Welcome to the Dynamic To-Do List!
 ![Project 2 Screenshot](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js/blob/main/To_Do_List_Demo.gif)
 
 **[dynamic-to-do-list-js]** is a **[This interactive web application lets you easily manage your daily tasks. Add new tasks, view your list, and remove completed items—all in real time, with no page reloads.
-
-]** built with **[---
 
 ## 🛠️ Tech Stack
 
