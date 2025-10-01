@@ -42,7 +42,89 @@ FAQ Section: Get answers to all your burning questions.
 Responsive Design: Looks great on any device.
 FontAwesome Icons: Social media and rating stars for a lively experience.]** built with **[HTML, CSS, JavaScript]**. This project demonstrates my ability to **[create a responsive webpages that satisfies clients needs]**. You can check out the repository [here](https://github.com/Dorwu-Gabriel/alx_html_css/blob/main/css_advanced/README.md).
 
-### [Project 2 Title](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js)
+<p align="left">
+  <img src="./src/assets/logo.png" alt="Logo" width="50"/>
+  <strong style="font-size:50px;"> CURRENCY CONVERTER APP</strong>
+</p>
+  A responsive web application that enables users to convert between various currencies in real-time using live exchange rate data from a public API.
+  Built with React, Zustand for state management, and Tailwind CSS for styling. Deployed on Vercel.
+
+
+---
+
+## Demo
+
+### Live Demo
+[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-green?style=for-the-badge)](https://currency-converter-app-57lk.vercel.app/)
+
+### App in Action
+![Currency Converter Demo](./src/assets/CurrencyApp-Demo.gif)
+
+## Screenshots
+
+### Light Theme
+![Light Theme Screenshot](./src/assets/CurrencyApp-Light-Theme.png)
+
+### Dark Theme
+![Dark Theme Screenshot](./src/assets/CurrencyApp-Dark-Theme.png)
+
+## Project Overview
+The Currency Converter App allows users to:
+- Select source and target currencies from a comprehensive list
+- Enter any amount for conversion
+- View real-time converted results
+- Toggle between light and dark themes
+- View conversion history
+- Access the app on any device
+
+## Tech Stack
+- **Frontend:** React
+- **State Management:** Zustand
+- **Styling:** Tailwind CSS
+- **API:** ExchangeRate-API
+- **Deployment:** Vercel
+
+## Features
+- Real-time currency conversion
+- Swap currencies with a single click
+- Dark/Light mode toggle
+- Responsive design for all devices
+- Clean and intuitive user interface
+- Quick access to popular currency pairs
+
+## Getting Started
+
+### Prerequisites
+- Node.js (v14 or later)
+- npm or yarn
+
+### Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Dorwu-Gabriel/currency-converter-app.git
+   cd currency-converter-app
+   ```
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+3. Create a `.env` file in the root directory and add your API key:
+   ```
+   VITE_EXCHANGE_RATE_API_KEY=your_api_key_here
+   ```
+4. Start the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### [Project 3 Title](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js)
 Welcome to the Dynamic To-Do List!
 
 ![Project 2 Screenshot](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js/blob/main/To_Do_List_Demo.gif)
